@@ -1,6 +1,6 @@
 ![](images/banner.jpg)
 
-This repository contains all the code samples used in the book [Getting to Know IntelliJ IDEA](https://amzn.to/4dLAHv7).
+This organisation contains all the code samples used in the book [Getting to Know IntelliJ IDEA](https://amzn.to/4dLAHv7).
 
 Tutorials:
 
