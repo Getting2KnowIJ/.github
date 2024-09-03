@@ -1,4 +1,4 @@
-# Getting to Know IntelliJ IDEA
+![](images/banner.jpg)
 
 This repository contains all the code samples used in the book [Getting to Know IntelliJ IDEA](https://amzn.to/4dLAHv7).
 
